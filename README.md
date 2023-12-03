@@ -1,7 +1,10 @@
-# "Merhaba" Everyone! Itxchi Here! 
+<h2 align="center">Hi!</h2>
 
-|||
-|-|-|
-| Languages that I can speak:	| English, Turkish 	|
-| I do my best with: 			| ![MongoDB](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mongodb-22.png) ![Nginx](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/nginx-22.png) ![Javascript](https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/js-22.png)  ![ReactJS](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/react-22.png)  ![Python](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/python-22.png)  ![Ubuntu](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/ubuntu-22.png) ![PHP](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/php-22.png) |
-|Stalk count:					|	![counter](https://profile-counter.glitch.me/{Itxchi808}/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=Itxchi808)
+
+
+![Deniz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Itxchi808&show_icons=true)
+
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1084284999961948270)](https://discord.com/users/1084284999961948270)
+-
